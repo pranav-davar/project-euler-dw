@@ -3,7 +3,7 @@ This repo contains a dataweave library project for the dw solutions of [project-
 
 This project can be imported in VS code with dataweave extension installed.
 
-All the output scripts are part of /test/dw folder
+All the output scripts are part of /src/test/dw folder
 
 Current Status of list of completed problems
 
