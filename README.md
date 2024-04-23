@@ -5,7 +5,10 @@ This project can be imported in VS code with dataweave extension installed.
 
 All the output scripts are part of /src/test/dw folder
 
-Current Status of list of completed problems
+Current Status of list of completed problems.
+
+![pranavdavar](https://projecteuler.net/profile/pranavdavar.png)
+
 
 | Problem Id | Problem | Status |
 | --: | :-- | :--: |
