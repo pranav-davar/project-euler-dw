@@ -18,3 +18,4 @@ Current Status of list of completed problems.
 | 6 | [Sum Square Difference](https://projecteuler.net/problem=6) | ✅ |
 | 7 | [10001st Prime](https://projecteuler.net/problem=7) | ✅ |
 | 8 | [Largest Product in the Series](https://projecteuler.net/problem=8) | ✅ |
+| 13 | [Larg Sum](https://projecteuler.net/problem=13) | ✅ |
