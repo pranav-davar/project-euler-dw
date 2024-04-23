@@ -20,3 +20,4 @@ Current Status of list of completed problems.
 | 8 | [Largest Product in the Series](https://projecteuler.net/problem=8) | ✅ |
 | 13 | [Large Sum](https://projecteuler.net/problem=13) | ✅ |
 | 16 | [Power Digit Sum](https://projecteuler.net/problem=16) | ✅ |
+| 20 | [Factorial Digit Sum](https://projecteuler.net/problem=20) | ✅ |
