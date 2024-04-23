@@ -19,3 +19,4 @@ Current Status of list of completed problems.
 | 7 | [10001st Prime](https://projecteuler.net/problem=7) | ✅ |
 | 8 | [Largest Product in the Series](https://projecteuler.net/problem=8) | ✅ |
 | 13 | [Large Sum](https://projecteuler.net/problem=13) | ✅ |
+| 16 | [Power Digit Sum](https://projecteuler.net/problem=16) | ✅ |
