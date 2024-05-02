@@ -19,6 +19,7 @@ Current Status of list of completed problems.
 | 6 | [Sum Square Difference](https://projecteuler.net/problem=6) | ✅ |
 | 7 | [10001st Prime](https://projecteuler.net/problem=7) | ✅ |
 | 8 | [Largest Product in the Series](https://projecteuler.net/problem=8) | ✅ |
+| 9 | [Special Pythagoras Triplet](https://projecteuler.net/problem=9) | ✅ |
 | 13 | [Large Sum](https://projecteuler.net/problem=13) | ✅ |
 | 16 | [Power Digit Sum](https://projecteuler.net/problem=16) | ✅ |
 | 20 | [Factorial Digit Sum](https://projecteuler.net/problem=20) | ✅ |
