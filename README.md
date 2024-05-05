@@ -24,3 +24,4 @@ Current Status of list of completed problems.
 | 16 | [Power Digit Sum](https://projecteuler.net/problem=16) | ✅ |
 | 20 | [Factorial Digit Sum](https://projecteuler.net/problem=20) | ✅ |
 | 25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25) | ✅ |
+| 29 | [Distinct Power](https://projecteuler.net/problem=29) | ✅ |
