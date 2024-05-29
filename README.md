@@ -25,6 +25,7 @@ Current Status of list of completed problems.
 | 16 | [Power Digit Sum](https://projecteuler.net/problem=16) | ✅ |
 | 19 | [Counting Sundays](https://projecteuler.net/problem=19) | ✅ |
 | 20 | [Factorial Digit Sum](https://projecteuler.net/problem=20) | ✅ |
+| 22 | [Names Score](https://projecteuler.net/problem=22) | ✅ |
 | 25 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25) | ✅ |
 | 29 | [Distinct Power](https://projecteuler.net/problem=29) | ✅ |
 | 48 | [Self Powers](https://projecteuler.net/problem=48) | ✅ |
