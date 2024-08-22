@@ -22,6 +22,7 @@ Current Status of list of completed problems.
 | 8 | [Largest Product in the Series](https://projecteuler.net/problem=8) | ✅ |
 | 9 | [Special Pythagoras Triplet](https://projecteuler.net/problem=9) | ✅ |
 | 13 | [Large Sum](https://projecteuler.net/problem=13) | ✅ |
+| 11 | [Largest Product in a Grid](https://projecteuler.net/problem=11) | ✅ |
 | 16 | [Power Digit Sum](https://projecteuler.net/problem=16) | ✅ |
 | 19 | [Counting Sundays](https://projecteuler.net/problem=19) | ✅ |
 | 20 | [Factorial Digit Sum](https://projecteuler.net/problem=20) | ✅ |
