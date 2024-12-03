@@ -1,11 +1,11 @@
 # project-euler-dw
-This repo contains a dataweave library project for the dw solutions of [project-euler](https://projecteuler.net)
+This repo contains a DataWeave library project for the solutions of [project-euler](https://projecteuler.net)
 
-This project can be imported in VS code with dataweave extension installed.
+This project can be imported in VS code with DataWeave extension installed.
 
 All the output scripts are part of /src/test/dw folder
 
-Current Status of list of completed problems.
+Current Status of the list of completed problems.
 
 ![pranavdavar](https://projecteuler.net/profile/pranavdavar.png)
 
